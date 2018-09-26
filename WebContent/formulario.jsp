@@ -10,7 +10,7 @@
 <body>
 	<div class="box">
 		<h2>Entre em contato</h2>
-		<form action="MostraIdade.jsp" method="POST">
+		<form action="MostrarResultados.jsp" method="POST">
 			<div>
 				<input type="text" name="nome" required="">
 				<label>Nome</label>
